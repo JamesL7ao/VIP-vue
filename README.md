@@ -1,5 +1,4 @@
-# vips
-https://jamesl7ao.github.io/VIP-vue/.
+# vips唯品会 https://jamesl7ao.github.io/VIP-vue/.
 
 > A Vue.js project
 
